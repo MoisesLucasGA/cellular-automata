@@ -73,7 +73,7 @@ const preload = (
   setMyP5(my)
 }
 
-export const Canvas = () => {
+export const Automata1D = () => {
   const size = 20
   const [myP5, setMyP5] = useState<p5>()
   const [variant, setVariant] = useState<string>('')

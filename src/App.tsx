@@ -1,10 +1,10 @@
 import './App.css'
-import { Canvas } from './pages/Canva'
+import { Home } from './pages/Home'
 
 function App() {
   return (
     <>
-      <Canvas />
+      <Home />
     </>
   )
 }
